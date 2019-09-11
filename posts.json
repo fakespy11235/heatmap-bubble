@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Sample Sample",
+    "posts": [
+      {
+        "t": 2136,
+        "group": "gifs"
+      },
+      {
+        "t": 3164,
+        "group": "news"
+      },
+      {
+        "t": 210,
+        "group": "EarthPorn"
+      }
+    ]
+  },
+  {
+    "name": "Sample Sample",
+    "posts": [
+      {
+        "t": 3929,
+        "group": "funny"
+      },
+      {
+        "t": 2922,
+        "group": "AskReddit"
+      },
+      {
+        "t": 613,
+        "group": "gaming"
+      }
+    ]
+  },
+  {
+    "name": "Sample Sample",
+    "posts": [
+      {
+        "t": 1041,
+        "group": "science"
+      },
+      {
+        "t": 1550,
+        "group": "gaming"
+      },
+      {
+        "t": 449,
+        "group": "pics"
+      },
+      {
+        "t": 176,
+        "group": "AskReddit"
+      }
+    ]
+  }
+]
