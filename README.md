@@ -8,7 +8,7 @@ Visualization showing agents traversing over a fragmented terrain
 A noval visualization which can be used to depict multi-agent interaction with a fragmented state space
 
 ## Demo
-[Demo animation](./demo.gif)
+![Demo animation](./demo.gif)
 
 ## Use cases
 * Visualize user activity and interactions in small social network oriented around communities
