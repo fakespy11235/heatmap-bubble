@@ -1,0 +1,108 @@
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 8px;
+  }
+  
+  .g-graphic {
+    position: relative;
+  }
+  
+  #g-play-button {
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    background: #004276;
+    padding-right: 26px;
+    border-radius: 2px;
+    border: none;
+    color: white;
+    margin: 0;
+    padding: 0 12px;
+    width: 68px;
+    cursor: pointer;
+    height: 30px;
+    font: 13px sans-serif;
+  }
+  
+  #g-play-button:hover {
+    background-color: #064d84;
+  }
+  
+  #g-play-button:active {
+    background-color: #002657;
+  }
+  
+  .g-slider .background {
+    cursor: ew-resize !important;
+  }
+  
+  .g-slider .g-handle {
+    fill: #fff;
+    stroke: #000;
+    stroke-width: 1.0px;
+    pointer-events: none;
+  }
+  
+  .g-background {
+    fill: #e0e9ef;
+  }
+  
+  .g-axis {
+    font: 10px sans-serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    fill: #777;
+  }
+  
+  .g-axis .domain {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 8px;
+    stroke-linecap: round;
+  }
+  
+  .g-axis .tick line {
+    stroke: #aaa;
+    shape-rendering: crispEdges;
+  }
+  
+  .g-axis .tick-special.tick-gen {
+    fill: #B43030;
+  }
+  
+  .g-axis .tick-special.tick-admin {
+    fill: #405695;
+  }
+  
+  .g-axis .tick-special {
+    font-weight: bold;
+    fill: black;
+  }
+  
+  .g-axis .g-halo {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 10px;
+    stroke-linecap: round;
+  }
+  
+  .node {
+    border: solid 1px white;
+    font: 10px sans-serif;
+    line-height: 12px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: 2px;
+  }
+  
+  rect {
+    fill: none;
+  }
+  
+  .swarm {
+    fill: steelblue;
+    stroke: #666;
+    stroke-width: 1.5px;
+  }
